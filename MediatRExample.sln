@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRExample", "MediatRExample\MediatRExample.csproj", "{7BBDF7F3-224B-4553-B2C5-77BF82807969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRExample.Test", "MediatRExample.Test\MediatRExample.Test.csproj", "{15875219-24F1-4B4E-B20E-B3F63EBE3375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BBDF7F3-224B-4553-B2C5-77BF82807969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBDF7F3-224B-4553-B2C5-77BF82807969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBDF7F3-224B-4553-B2C5-77BF82807969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBDF7F3-224B-4553-B2C5-77BF82807969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15875219-24F1-4B4E-B20E-B3F63EBE3375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15875219-24F1-4B4E-B20E-B3F63EBE3375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15875219-24F1-4B4E-B20E-B3F63EBE3375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15875219-24F1-4B4E-B20E-B3F63EBE3375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02BDFF29-B23C-426F-8B61-C7ABECFEB774}
+	EndGlobalSection
+EndGlobal
